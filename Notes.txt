@@ -17,3 +17,24 @@ there are 6 levels from  h1 to h6
 image tag <img> - self closing
 
 comments in html<!-- -->
+
+Lists in html:
+Ordered 
+<ol> 
+<li>list items</li>
+</ol>
+unordered
+<ul>
+<li></li>
+</ul>
+description 
+<dl>
+<dt>definiton term </dt>
+<dd>definiton description</dd>
+</dl>
+nested Lists
+
+
+Links 
+<a>anchor tags</a>
+id = attribute to reference Elements
