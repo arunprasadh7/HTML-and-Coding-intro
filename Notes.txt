@@ -1,0 +1,19 @@
+What is HTML ?
+hyper text markup language is used to describe the structure of the webpage
+
+syntax -  structure of statements in a computer language
+
+html Elements are written in tags < > starting tag <html> & ending tag</html>
+some tags are self closing tags and does not require a seperate closing tag
+
+semantics -  browser will read certain texts as more important compared to others
+Elements : there are more than 100 
+
+<p> I am a paragraph </p>
+
+heading tag:
+there are 6 levels from  h1 to h6
+
+image tag <img> - self closing
+
+comments in html<!-- -->
