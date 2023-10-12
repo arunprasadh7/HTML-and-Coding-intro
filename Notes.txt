@@ -38,3 +38,6 @@ nested Lists
 Links 
 <a>anchor tags</a>
 id = attribute to reference Elements
+
+image - self closing tag
+<img src="" alt=""/>
