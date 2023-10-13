@@ -41,3 +41,14 @@ id = attribute to reference Elements
 
 image - self closing tag
 <img src="" alt=""/>
+
+
+tables:
+
+<table>
+<thead></thead>
+<tbody></tbody>
+</table>
+
+divs: the content division element
+these are used to divide or seperate the contents into small parts
