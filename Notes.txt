@@ -72,3 +72,9 @@ article : can represent newpaper articles, blog entry, user comment etc
 Forms:
 forms are used to get user data
 it consists of number of input fields
+
+Select dropdown:
+<select> 
+  <option>
+  </option>
+</select>
