@@ -52,3 +52,20 @@ tables:
 
 divs: the content division element
 these are used to divide or seperate the contents into small parts
+
+Semantic sectioning elements:
+header - typically holds website logo, search bar's and titles
+<header></header>
+
+footer - represent the footer - holds information about company, copyright data or Links
+<footer></footer>
+
+nav - represents the navigation bar
+<nav></nav>
+
+section - represents a section- should have headings in them
+<section> </section>
+
+article : can represent newpaper articles, blog entry, user comment etc
+<article></article>
+
