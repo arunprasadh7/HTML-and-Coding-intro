@@ -69,3 +69,6 @@ section - represents a section- should have headings in them
 article : can represent newpaper articles, blog entry, user comment etc
 <article></article>
 
+Forms:
+forms are used to get user data
+it consists of number of input fields
